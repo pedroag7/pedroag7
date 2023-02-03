@@ -1,5 +1,5 @@
 # 💫 About Me:
- Olá, meu nome é Pedro e atualmente sou estudante de técnico<br>em informática no Instituto Federal Farroupilha campus FW
+ Olá, meu nome é Pedro e sou tecnico em informatica<br> formado pelo IFFar-FW e estudante de programaçao
 
 
 ## 🌐 Socials:
