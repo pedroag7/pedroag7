@@ -1,5 +1,5 @@
 # 💫 About Me:
- Olá, meu nome é Pedro e sou tecnico em informatica<br> formado pelo IFFar-FW e estudante de programaçao
+ Olá, meu nome é Pedro e sou tecnico em informatica<br> formado pelo IFFar-FW e estudante de ciencia da computaçao
 
 
 ## 🌐 Socials:
